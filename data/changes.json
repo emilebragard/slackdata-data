@@ -21,5 +21,58 @@
     "flags": [],
     "reverts": null,
     "created_at": "2026-10-16T22:32:55.612Z"
+  },
+  {
+    "id": "01M55W7YE4SW500K13E1J1CKC7",
+    "target_type": "item",
+    "target_id": "weblocks#124",
+    "target_name": "Viper Constrictor 25mm",
+    "action": "item.edit",
+    "actor_isa_id": "ISA_01A28819",
+    "actor_name": "Emile Bragard",
+    "actor_role": "admin",
+    "channel": "web",
+    "changes": {
+      "photos": {
+        "before": [
+          {
+            "id": "a7acfac453ac62cf",
+            "large": "weblocks/124/a7acfac453ac62cf-1600.webp",
+            "small": "weblocks/124/a7acfac453ac62cf-480.webp"
+          },
+          {
+            "id": "7a2b5d84f57d9522",
+            "large": "weblocks/124/7a2b5d84f57d9522-1600.webp",
+            "small": "weblocks/124/7a2b5d84f57d9522-480.webp"
+          },
+          {
+            "id": "c56eb7f7ad4b8011",
+            "large": "weblocks/124/c56eb7f7ad4b8011-1600.webp",
+            "small": "weblocks/124/c56eb7f7ad4b8011-480.webp"
+          }
+        ],
+        "after": [
+          {
+            "id": "7a2b5d84f57d9522",
+            "large": "weblocks/124/7a2b5d84f57d9522-1600.webp",
+            "small": "weblocks/124/7a2b5d84f57d9522-480.webp"
+          },
+          {
+            "id": "c56eb7f7ad4b8011",
+            "large": "weblocks/124/c56eb7f7ad4b8011-1600.webp",
+            "small": "weblocks/124/c56eb7f7ad4b8011-480.webp"
+          },
+          {
+            "id": "a7acfac453ac62cf",
+            "large": "weblocks/124/a7acfac453ac62cf-1600.webp",
+            "small": "weblocks/124/a7acfac453ac62cf-480.webp"
+          }
+        ]
+      }
+    },
+    "why": null,
+    "flags": [],
+    "reverts": null,
+    "created_at": "2026-10-17T21:28:17.092Z"
   }
 ]
