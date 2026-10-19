@@ -74,5 +74,28 @@
     "flags": [],
     "reverts": null,
     "created_at": "2026-10-17T21:28:17.092Z"
+  },
+  {
+    "id": "01M57RS42TYVD56GQDPR0Z58GQ",
+    "target_type": "person",
+    "target_id": "ISA_8DBD762C",
+    "target_name": "Emile Bragard",
+    "action": "role.grant",
+    "actor_isa_id": "ISA_8DBD762C",
+    "actor_name": "Emile Bragard",
+    "actor_role": "bootstrap",
+    "channel": "bootstrap",
+    "changes": {
+      "roles": {
+        "before": [],
+        "after": [
+          "admin"
+        ]
+      }
+    },
+    "why": "On the ADMIN_BOOTSTRAP_EMAILS allowlist, with a verified address.",
+    "flags": [],
+    "reverts": null,
+    "created_at": "2026-10-18T15:06:14.490Z"
   }
 ]
