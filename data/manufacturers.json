@@ -251,9 +251,9 @@
       "country": "US",
       "year_established": 2013,
       "slackline_oriented": true,
-      "website": "https://web.archive.org/web/20250421040630/http://slacklinetechnology.com",
+      "website": "https://web.archive.org/web/20140625074759/http://slacklinetechnology.com/",
       "facebook": "https://www.facebook.com/slacklinetechnology",
-      "email": null,
+      "email": "jason@slacklinetechnology.com",
       "active": false,
       "logo": "brands/46/logo-7998284c0d535023.jpg"
     },
@@ -1201,13 +1201,15 @@
       "name": "Cong Gear",
       "verified": false,
       "item_count": 1,
-      "country": null,
+      "country": "CN",
       "year_established": null,
       "slackline_oriented": true,
       "website": null,
       "facebook": null,
-      "email": null,
-      "active": true
+      "email": "riodinho.x@gmail.com",
+      "active": true,
+      "email_alt": "278297750@qq.com",
+      "instagram": "https://www.instagram.com/cong_gear/"
     },
     "local_carlo_sovrini": {
       "catalog_id": 101,
